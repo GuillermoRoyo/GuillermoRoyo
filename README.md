@@ -1,9 +1,7 @@
 # ![https://github.com/GuillermoRoyo](https://github.com/GuillermoRoyo/GuillermoRoyo/blob/main/create_imageme.png) Hello, my name is Guille Royo
 ### Undergoing Data Analyst
 
-
-
-
+![https://github.com/GuillermoRoyo](https://github.com/GuillermoRoyo/GuillermoRoyo/blob/main/Imagen_pantalla.png)
 
 I'm a junior data analyst with the enthusiasm to grow as a professional within this industry.
 
