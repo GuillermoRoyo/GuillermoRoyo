@@ -1,4 +1,4 @@
-# ![https://github.com/GuillermoRoyo](https://github.com/GuillermoRoyo/Guillermo__Royo/blob/main/create_imageme.png) Hello, my name is Guille Royo
+# ![https://github.com/GuillermoRoyo](https://github.com/GuillermoRoyo/GuillermoRoyo/blob/main/create_imageme.png) Hello, my name is Guille Royo
 ### Undergoing Data Analyst
 
 
